@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="50dp"
+    android:layout_height="30dp"
+    android:gravity="center"
+    android:background="@drawable/marker2" >
+
+    <TextView
+        android:layout_marginBottom="3dp"
+        android:id="@+id/tvContent"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="33"
+        android:textSize="12dp"
+        android:textColor="@android:color/white"
+        android:ellipsize="end"
+        android:singleLine="true"
+        />
+
+</LinearLayout>

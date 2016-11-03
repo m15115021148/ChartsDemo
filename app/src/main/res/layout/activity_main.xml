@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#333"
+    android:orientation="vertical"
+    tools:context="com.sitemap.piecharts.MainActivity">
+
+    <TextView
+        android:id="@+id/line_chart"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="20dp"
+        android:text="线形图"
+        android:textColor="#fff"
+        android:textSize="22sp" />
+
+    <TextView
+        android:id="@+id/pie_chart"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="20dp"
+        android:text="饼形图"
+        android:textColor="#fff"
+        android:textSize="22sp" />
+
+    <TextView
+        android:id="@+id/bar_chart"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="20dp"
+        android:text="柱形图"
+        android:textColor="#fff"
+        android:textSize="22sp" />
+
+</LinearLayout>
