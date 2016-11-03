@@ -10,11 +10,17 @@
        
 设置各种属性即可
 效果图：
-线形图
+
+线形图:
+
 ![image](https://github.com/m15115021148/ChartsDemo/blob/master/img/line.jpeg)
 
-饼形图
+
+饼形图:
+
 ![image](https://github.com/m15115021148/ChartsDemo/blob/master/img/pie.jpeg)
 
-柱形图
+
+柱形图:
+
 ![image](https://github.com/m15115021148/ChartsDemo/blob/master/img/bar.jpeg)
