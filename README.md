@@ -13,14 +13,14 @@
 
 线形图:
 
-![image](https://github.com/m15115021148/ChartsDemo/blob/master/img/line.jpeg)
+![image](https://github.com/m15115021148/ChartsDemo/blob/master/img/line_chart.jpeg)
 
 
 饼形图:
 
-![image](https://github.com/m15115021148/ChartsDemo/blob/master/img/pie.jpeg)
+![image](https://github.com/m15115021148/ChartsDemo/blob/master/img/pie_chart.jpeg)
 
 
 柱形图:
 
-![image](https://github.com/m15115021148/ChartsDemo/blob/master/img/bar.jpeg)
+![image](https://github.com/m15115021148/ChartsDemo/blob/master/img/bar_chart.jpeg)
